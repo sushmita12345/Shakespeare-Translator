@@ -13,4 +13,4 @@ A web app build with HTML, CSS and Javascript, in which this translator takes En
 
 # <h2>Clone the Repository</h2>
 To clone the repository open the terminal and run below command:</br>
-<pre>git clone https://github.com/sushmita12345/NeoG-Banana-Speak</pre>
+<pre>git clone https://github.com/sushmita12345/Shakespeare-Translator</pre>
